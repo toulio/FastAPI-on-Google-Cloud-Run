@@ -1,0 +1,12 @@
+{
+    "metadata": {
+        "version": "1"
+    },
+    "templates": [
+        {
+            "path": "src",
+            "name": "src",
+            "description": "A FastAPI example."
+        }
+    ]
+}
